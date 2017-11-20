@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-19 21:04:16
 ---
-<img title="" src="http://shepherdjournal.shepherdmaplesyrupfestival.com/wp-content/uploads/2017/11/null-7.jpeg" alt="" width="624" height="468" />
+&nbsp;
 
 The 828 Rental Hall opened it’s doors to the community this afternoon. Visitors were able to sample food, dessert, and music from different vendors while they checked out the recently completed renovations.
 
