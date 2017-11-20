@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2017-11-19 21:04:16
 ---
-&nbsp;
-
 The 828 Rental Hall opened it’s doors to the community this afternoon. Visitors were able to sample food, dessert, and music from different vendors while they checked out the recently completed renovations.
 
 <a href="https://www.facebook.com/pg/shepherdjournal/photos/?tab=album&amp;album_id=10156027779130921">View more photos here</a>. Find out more information about the <a href="http://www.shepherdrentalhall.com/">828 Rental Hall on its website here.</a>
