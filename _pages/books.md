@@ -1,6 +1,6 @@
 ---
 ID: 699
-post_title: Books
+post_title: Book
 author: Jon
 post_excerpt: ""
 layout: page
