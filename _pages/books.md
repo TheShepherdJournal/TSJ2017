@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2017-11-29 23:02:51
 ---
-[mbm_book_grid id='698']
+[mbm_book_grid id="698"]
